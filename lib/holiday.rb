@@ -58,6 +58,7 @@ holiday_hash ={
   :winter => {
     :christmas => ["Lights", "Wreath"],
     :new_years => ["Party Hats"]
+    :valentines_day => ["Cupid Cut-Out", "Candy Hearts"]
   },
   :summer => {
     :fourth_of_july => ["Fireworks", "BBQ"]
