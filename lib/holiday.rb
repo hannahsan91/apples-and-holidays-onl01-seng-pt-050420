@@ -57,8 +57,8 @@ def all_supplies_in_holidays(holiday_hash)
 holiday_hash ={
   :winter => {
     :christmas => ["Lights", "Wreath"],
-    :new_years => ["Party Hats"]
-    :valentines_day => ["Cupid Cut-Out", "Candy Hearts"]
+    :new_years => ["Party Hats"],
+    :valentines_day => ["Cupid Cut-Out", "Candy Hearts"],
   },
   :summer => {
     :fourth_of_july => ["Fireworks", "BBQ"]
