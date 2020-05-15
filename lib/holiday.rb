@@ -61,6 +61,12 @@ holiday_hash ={
   },
   :summer => {
     :fourth_of_july => ["Fireworks", "BBQ"]
+  },
+  :fall => {
+    :thanksgiving => ["Turkey"]
+  },
+  :spring => {
+    :memorial_day => ["BBQ"]
   }
 }
 end
